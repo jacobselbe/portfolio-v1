@@ -1,7 +1,7 @@
 import * as actions from '../actions';
 
 const initialState = {
-    welcome: 'Welcome'
+    welcome: ''
 };
 
 export const reducer = (state = initialState, action) => {
